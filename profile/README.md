@@ -1,3 +1,3 @@
-# ![Logo](../profile/imgs/logo-no-background.png)
+# Pulsewave home
 
-![logo2](../profile/imgs/logo-white.png)
+This is the home of the Pulsewave. It contains all open source projects seperated by category.
